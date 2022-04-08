@@ -43,7 +43,7 @@ export function Header() {
             Whitepaper
           </NavHashLink>
           <div>
-              <a href="" className="button">DAPP</a>
+              <a href="" className="button">MINT</a>
             </div>
         </nav>
 
