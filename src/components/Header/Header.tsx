@@ -42,8 +42,8 @@ export function Header() {
           <NavHashLink smooth to="#whitepaper" onClick={closeMenu}>
             Whitepaper
           </NavHashLink>
-          <div>
-              <a href="" className="button">MINT</a>
+            <div>
+              <a href="https://cronosnauts.space/" className="button">MINT</a>
             </div>
         </nav>
 
