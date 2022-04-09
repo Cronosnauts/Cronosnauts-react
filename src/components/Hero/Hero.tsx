@@ -25,7 +25,7 @@ export function Hero(){
           <ScrollAnimation animateIn="fadeInUp" delay={0.8*1000}>
             <BrowserRouter>
             <div>
-              <a href="https://agoracro.com/collection/cronosnauts" className="button">Buy</a>
+              <a href="https://mint.cronosnauts.space" className="button">MINT</a>
             </div>
             </BrowserRouter>
           </ScrollAnimation>
