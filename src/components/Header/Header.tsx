@@ -43,7 +43,7 @@ export function Header() {
             Whitepaper
           </NavHashLink>
             <div>
-              <a href="https://mint.cronosnauts.space/" className="button">MINT</a>
+              <a href="https://www.cronosbay.com/collection/cronos-nauts" className="button">MINT</a>
             </div>
         </nav>
 
