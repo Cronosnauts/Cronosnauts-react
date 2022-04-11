@@ -25,7 +25,7 @@ export function Partner(){
       <div className="contacts">
         <ScrollAnimation animateIn="fadeInDown" delay={1*1000}>
           <img src={trasparent} alt="Email" width="100" height="100"/>
-          <a href="https://www.crosea.io/"><h1>CROSEA</h1> </a>
+          <a href="https://cronosbay.com"><h1>CRONOSBAY</h1> </a>
         </ScrollAnimation>
       </div>
     </div>
