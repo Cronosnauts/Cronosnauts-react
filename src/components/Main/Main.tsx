@@ -3,7 +3,7 @@ import {Container} from "./styles"
 import {Hero} from "../Hero/Hero"
 import { About } from "../About/About";
 import { Contact } from "../Contact/Contact";
-import { Portfolio } from "../Portfolio/Portfolio";
+import { Timeline } from "../Portfolio/Timeline";
 import { Whitepaper } from "../Whitepaper/Whitepaper";
 
 
@@ -233,7 +233,7 @@ export function Main(){
     />
       <Hero></Hero>
       <About></About>
-      <Portfolio></Portfolio>
+      <Timeline></Timeline>
       <Whitepaper></Whitepaper>
       <Contact></Contact>
     </Container>

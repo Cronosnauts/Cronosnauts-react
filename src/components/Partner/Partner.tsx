@@ -1,7 +1,7 @@
 import { Container } from "./styles"
 import ScrollAnimation from "react-animate-on-scroll"
-import Crosea  from "../../assets/Crosea.png"
-import trasparent  from "../../assets/trasparent.png"
+import  Crosea   from "../../assets/Crosea.png"
+import  Tra   from "../../assets/Tra.png"
 
 
 export function Partner(){
@@ -24,7 +24,7 @@ export function Partner(){
       </div>
       <div className="contacts">
         <ScrollAnimation animateIn="fadeInDown" delay={1*1000}>
-          <img src={trasparent} alt="Email" width="100" height="100"/>
+          <img src={Tra} alt="Email" width="100" height="100"/>
           <a href="https://cronosbay.com"><h1>CRONOSBAY</h1> </a>
         </ScrollAnimation>
       </div>
