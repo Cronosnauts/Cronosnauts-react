@@ -16,6 +16,15 @@ export const Container = styled.section`
     }
   }
 
+<<<<<<< HEAD
+=======
+  .hero-image{
+    img{
+      max-width: 750px;
+    }
+  }
+
+>>>>>>> e5d6d64 (“Partnership”)
   .contacts{
     display: flex;
     align-items: center;
@@ -27,17 +36,24 @@ export const Container = styled.section`
       display: flex;
       align-items: center;
       justify-content: center;
+<<<<<<< HEAD
       width: 50%;
       max-width: 40rem;
       gap: 2rem;
       background-color: var(--green);
       border-radius: 1.4rem;
+=======
+      width: 100%;
+      max-width: 40rem;
+      gap: 2rem;
+>>>>>>> e5d6d64 (“Partnership”)
       padding: 1.6rem 2.8rem;
       transition: background-color 0.25s;
       img{
         width: 100;
         opacity: 2
       }
+<<<<<<< HEAD
       a{
         color: var(--black);
         font-weight: 500;
@@ -50,6 +66,8 @@ export const Container = styled.section`
       }
     }
   }
+=======
+>>>>>>> e5d6d64 (“Partnership”)
 
 
   @media(max-width: 960px){
