@@ -23,9 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 .vercel
-<<<<<<< HEAD
-=======
+
 
 # Local Netlify folder
 .netlify
->>>>>>> 2015eac (Uploading the project)
+

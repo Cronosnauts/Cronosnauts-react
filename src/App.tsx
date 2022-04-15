@@ -3,10 +3,6 @@ import { Footer } from './components/Footer/Footer'
 import { Header } from './components/Header/Header'
 import { Main } from './components/Main/Main'
 import { Partner } from './components/Partner/Partner'
-<<<<<<< HEAD
-
-=======
->>>>>>> e5d6d64 (“Partnership”)
 import { GlobalStyle } from './styles/global'
 import 'react-toastify/dist/ReactToastify.css'
 
