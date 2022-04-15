@@ -1,11 +1,13 @@
 import 'react-vertical-timeline-component/style.min.css';
 import { VerticalTimeline, VerticalTimelineElement } from "react-vertical-timeline-component"
 import {Hero} from "../Hero/Hero"
+import { Container } from "./styles";
 
 export function Timeline(){
   return(
-
-<VerticalTimeline>
+<Container id="roadmap">
+  
+ <VerticalTimeline>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     contentStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
@@ -101,6 +103,6 @@ export function Timeline(){
     date="Q2 — 2023"
   />
 </VerticalTimeline>
-
+</Container>
  )
 }
